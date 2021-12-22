@@ -1,0 +1,1 @@
+def has_required_fields(required_fields: Dict[])
